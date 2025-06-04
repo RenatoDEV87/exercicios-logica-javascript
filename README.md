@@ -34,6 +34,7 @@ Antes de rodar os exercícios, você precisa ter o **Node.js** instalado.
 | `exercicio_14.js` | Calcula o fatorial de um número usando `for` ou `while`               | [Ver código](https://github.com/RenatoDEV87/Fatorial)
 | `exercicio_15.js` | Gera e mostra os 10 primeiros números da sequência de Fibonacci       | [Ver código](https://github.com/RenatoDEV87/Fibonacci)
 
+
 ## ✨ Considerações Finais
 
 Parabéns por chegar até aqui, jovem Padawan do JavaScript! 🧙‍♂️✨
