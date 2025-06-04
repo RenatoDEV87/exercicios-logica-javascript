@@ -13,7 +13,6 @@ Antes de rodar os exercícios, você precisa ter o **Node.js** instalado.
 
 - Acesse: https://nodejs.org
 - Baixe e instale a versão recomendada
-- Após instalar, verifique se está funcionando:
 
 ## Lista de Exercícios
 
