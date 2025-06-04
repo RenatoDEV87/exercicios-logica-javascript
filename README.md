@@ -34,3 +34,11 @@ Antes de rodar os exercícios, você precisa ter o **Node.js** instalado.
 | `exercicio_14.js` | Calcula o fatorial de um número usando `for` ou `while`               | [Ver código](https://github.com/RenatoDEV87/Fatorial)
 | `exercicio_15.js` | Gera e mostra os 10 primeiros números da sequência de Fibonacci       | [Ver código](https://github.com/RenatoDEV87/Fibonacci)
 
+✨ Considerações Finais
+Parabéns por chegar até aqui, jovem Padawan do JavaScript! 🧙‍♂️✨
+
+Este repositório é tipo o Manual do Mestre Jedi para quem está começando a dominar as forças da programação. Aqui você vai encontrar exercícios para treinar seu lado bom da força — estruturas condicionais, loops e lógica básica — para evitar que seu código vire um bugzilla 🐛.
+
+Lembre-se: até o grande Gandalf começou com “Você não passará!” para bugs, mas com prática, você vai se tornar um verdadeiro Sr. Programador. E não se esqueça: “Com grandes poderes de código, vêm grandes responsabilidades” 🕷️💻.
+
+Continue treinando, explorando e quebrando a cabeça — o universo JavaScript é vasto e cheio de surpresas. Que a força do código esteja com você! 🚀👾
