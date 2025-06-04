@@ -1,4 +1,4 @@
-# 🧠 Exercícios de Lógica em JavaScript
+# 🧠 Exercícios de Lógica em JavaScript (Lista de Exercícios 1 - Estudando as estruturas básicas)
 
 Este repositório contém exercícios básicos de lógica de programação desenvolvidos em **JavaScript**.  
 Os exercícios utilizam estruturas condicionais (`if`, `else`, `switch`) e de repetição (`for`, `while`) para praticar a base da linguagem e o raciocínio lógico.
