@@ -15,9 +15,9 @@ Antes de rodar os exercícios, você precisa ter o **Node.js** instalado.
 
 ## Lista de Exercícios
 
-| Arquivo           | Descrição                                                             |
-| ----------------- | --------------------------------------------------------------------- |
-| `exercicio_01.js` | Verifica se um número é par ou ímpar                                  |
+| Arquivo           | Descrição                                                             | Repositório 
+| ----------------- | --------------------------------------------------------------------- | ----------------------
+| `exercicio_01.js` | Verifica se um número é par ou ímpar                                  | [Verifica se um número é par ou ímpar](https://github.com/RenatoDEV87/Verifique-se-um-numero-e-par-ou-impar)
 | `exercicio_02.js` | Classifica idade como criança, adolescente, adulto ou idoso           |
 | `exercicio_03.js` | Classifica nota como aprovado, recuperação ou reprovado               |
 | `exercicio_04.js` | Menu interativo com 3 opções usando `switch-case`                     |
